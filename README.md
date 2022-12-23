@@ -1,2 +1,4 @@
 # criptt
-Challenge de codificador e decoficador do programa Oracle Next Education
+Desafio de projeto do Oracle Next Education (ONE) de um encriptador e desencriptador de frases usando HTML, CSS, Javascript.
+
+
